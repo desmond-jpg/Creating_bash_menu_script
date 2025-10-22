@@ -1,5 +1,8 @@
 markdown
 
+<img width="1536" height="1024" alt="bash" src="https://github.com/user-attachments/assets/ac0ebd07-ffd5-4f71-bf3e-133e4e4e50a3" />
+
+
 ---
 
 ## Menu display list
@@ -104,6 +107,12 @@ Images from the output
 
 
 <img width="1091" height="443" alt="Running_process" src="https://github.com/user-attachments/assets/761dc19f-0418-4e45-9172-9ae652a3819f" />
+
+
+
+
+
+
 
 
 
